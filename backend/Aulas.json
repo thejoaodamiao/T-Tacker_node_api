@@ -1,0 +1,344 @@
+{
+  "Aulas": [
+    {
+      "Nome": "MATEMÁTICA DISCRETA I",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 7,
+          "Sala": "B103",
+          "Predio": "CCT"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 7,
+          "Sala": "A106",
+          "Predio": "CCT"
+        }
+      ]
+    },
+    {
+      "Nome": "MATEMÁTICA DISCRETA II",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 11,
+          "Sala": "B103",
+          "Predio": "CCT"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 9,
+          "Sala": "Lab 05",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "ANÁLISE E PROJETO DE SISTEMAS",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 9,
+          "Sala": "C202",
+          "Predio": "CCT"
+        },
+        {
+          "Dia": "Quarta",
+          "Hora": 7,
+          "Sala": "B103",
+          "Predio": "CCT"
+        }
+      ]
+    },
+    {
+      "Nome": "PROJETO DE INTERFACE HOMEM-COMPUTADOR ",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 9,
+          "Sala": "Lab 02",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 9,
+          "Sala": "Lab 02",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "ÉTICA EM COMPUTAÇÃO ",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 9,
+          "Sala": "B103",
+          "Predio": "CCT"
+        }
+      ]
+    },
+    {
+      "Nome": "LÓGICA PARA COMPUTAÇÃO",
+      "Horarios": [
+        {
+          "Dia": "Terça",
+          "Hora": 9,
+          "Sala": "C109",
+          "Predio": "CCT"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 9,
+          "Sala": "C109",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Quarta",
+          "Hora": 9,
+          "Sala": "C109",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Sexta",
+          "Hora": 9,
+          "Sala": "C109",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "TECNOLOGIA, CIÊNCIAS E SOCIEDADE",
+      "Horarios": [
+        {
+          "Dia": "Terça",
+          "Hora": 7,
+          "Sala": "Lab 05",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "LINGUAGENS FORMAIS E TEORIA DA COMPUTAÇÃO",
+      "Horarios": [
+        {
+          "Dia": "Terça",
+          "Hora": 11,
+          "Sala": "B103",
+          "Predio": "CCT"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 11,
+          "Sala": "B103",
+          "Predio": "CCT"
+        }
+      ]
+    },
+    {
+      "Nome": " ENGENHARIA DE SOFTWARE II",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 9,
+          "Sala": "Lab 03",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 9,
+          "Sala": "Lab 03",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "BANCO DE DADOS ",
+      "Horarios": [
+        {
+          "Dia": "Terça",
+          "Hora": 7,
+          "Sala": "A109",
+          "Predio": "CCT"
+        },
+        {
+          "Dia": "Quarta",
+          "Hora": 9,
+          "Sala": "Lab 03",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "TÉCNICAS DE ANÁLISE DE ALGORITMO ",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 7,
+          "Sala": "Lab 03",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 7,
+          "Sala": "Lab 03",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "COMPILADORES ",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 9,
+          "Sala": "Lab 04",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 9,
+          "Sala": "Lab 04",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "ORGANIZACAO E ARQUITETURA DE COMPUTADORES",
+      "Horarios": [
+        {
+          "Dia": "Terça",
+          "Hora": 11,
+          "Sala": "Lab 05",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Sexta",
+          "Hora": 9,
+          "Sala": "B104",
+          "Predio": "CCT"
+        }
+      ]
+    },
+    {
+      "Nome": "LABORATÓRIO DE ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES ",
+      "Horarios": [
+        {
+          "Dia": "Terça",
+          "Hora": 9,
+          "Sala": "Lab 05",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Sexta",
+          "Hora": 7,
+          "Sala": "Lab 05",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": " COMPUTAÇÃO DE ALTO DESEMPENHO",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 7,
+          "Sala": "B202",
+          "Predio": "CCT"
+        },
+        {
+          "Dia": "Quarta",
+          "Hora": 7,
+          "Sala": "C201",
+          "Predio": "CCT"
+        }
+      ]
+    },
+    {
+      "Nome": "MÉTODOS FORMAIS",
+      "Horarios": [
+        {
+          "Dia": "Terça",
+          "Hora": 7,
+          "Sala": "C201",
+          "Predio": "CCT"
+        },
+        {
+          "Dia": "Sexta",
+          "Hora": 7,
+          "Sala": "C201",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "COMPUTAÇÃO GRÁFICA",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 7,
+          "Sala": "Lab 04",
+          "Predio": "CCT"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 7,
+          "Sala": "Lab 04",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": "MÉTODOS AVANÇADOS DE PROGRAMAÇÃO",
+      "Horarios": [
+        {
+          "Dia": "Terça",
+          "Hora": 11,
+          "Sala": "Lab 04",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Sexta",
+          "Hora": 11,
+          "Sala": "Lab 02",
+          "Predio": "CIAC"
+        }
+      ]
+    },
+    {
+      "Nome": " TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE",
+      "Horarios": [
+        {
+          "Dia": "Segunda",
+          "Hora": 11,
+          "Sala": "Lab 02",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Quarta",
+          "Hora": 11,
+          "Sala": "B208",
+          "Predio": "CCT"
+        }
+      ]
+    },
+    {
+      "Nome": "TÓPICOS ESPECIAIS EM BANCOS DE DADOS",
+      "Horarios": [
+        {
+          "Dia": "Terça",
+          "Hora": 11,
+          "Sala": "Lab 02",
+          "Predio": "CIAC"
+        },
+        {
+          "Dia": "Quinta",
+          "Hora": 11,
+          "Sala": "Lab 02",
+          "Predio": "CIAC"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "Professores": [
+    {
+      "id": 1,
+      "Nome": "Antonio Carlos de Albuquerque",
+      "Email": "antoniocarlosdc@uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "MATEMÁTICA DISCRETA I"
+        },
+        {
+          "Nome": "MATEMÁTICA DISCRETA II"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "Nome": "Daniel Scherer",
+      "Email": "scherer@servidor.uepb.edu.br",
+      "PhotoURL": "https://i1.rgstatic.net/ii/profile.image/743575138607104-1554293536111_Q512/Daniel-Scherer-2.jpg",
+      "Aulas": [
+        {
+          "Nome": "ANÁLISE E PROJETO DE SISTEMAS"
+        },
+        {
+          "Nome": "PROJETO DE INTERFACE HOMEM-COMPUTADOR"
+        }
+      ]
+    },
+    {
+      "id": 3,
+      "Nome": "Edson Holanda Cavalcante Junior",
+      "Email": "edsonholanda@servidor.uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "ÉTICA EM COMPUTAÇÃO"
+        },
+        {
+          "Nome": "LÓGICA PARA COMPUTAÇÃO"
+        },
+        {
+          "Nome": " TECNOLOGIA, CIÊNCIAS E SOCIEDADE"
+        },
+        {
+          "Nome": "LINGUAGENS FORMAIS E TEORIA DA COMPUTAÇÃO"
+        }
+      ]
+    },
+    {
+      "id": 4,
+      "Nome": "Fábio Luiz Leite Júnior",
+      "Email": "fabioleite@servidor.uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "LABORATÓRIO DE ESTRUTURA DE DADOS"
+        },
+        {
+          "Nome": "BANCO DE DADOS"
+        },
+        {
+          "Nome": "TÉCNICAS DE ANÁLISE DE ALGORITMO"
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "Nome": "Isaque Alves de Lyra",
+      "Email": "isaquelyra@uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "DESCONHECIDO"
+        }
+      ]
+    },
+    {
+      "id": 6,
+      "Nome": "Katia Elizabete Galdino",
+      "Email": "katiagaldino@servidor.uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "DESCONHECIDO"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "Nome": "Kézia de Vasconcelos Oliveira Dantas",
+      "Email": "kezia.vasconcelos@servidor.uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "COMPILADORES"
+        }
+      ]
+    },
+    {
+      "id": 7,
+      "Nome": "Eduardo Jorge Valadares Oliveira",
+      "Email": "edujvo@servidor.uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "COMPILADORES"
+        }
+      ]
+    },
+    {
+      "id": 9,
+      "Nome": "Misael Elias de Morais",
+      "Email": "moraiscg@cct.uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "ORGANIZACAO E ARQUITETURA DE COMPUTADORES"
+        },
+        {
+          "Nome": "LABORATÓRIO DE ORGANIZAÇÃO E ARQUITETURA DE COMPUTADORES"
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "Nome": "Paulo Eduardo e Silva Barbosa",
+      "Email": "pesbarbosa@gmail.com",
+      "Aulas": [
+        {
+          "Nome": "COMPUTAÇÃO DE ALTO DESEMPENHO"
+        },
+        {
+          "Nome": " MÉTODOS FORMAIS"
+        }
+      ]
+    },
+    {
+      "id": 11,
+      "Nome": "Robson Pequeno de Sousa",
+      "Email": "sousarob@servidor.uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "COMPUTAÇÃO GRÁFICA"
+        }
+      ]
+    },
+    {
+      "id": 12,
+      "Nome": "Sabrina de Figueirêdo Souto",
+      "Email": "sabrinadfs@servidor.uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "MÉTODOS AVANÇADOS DE PROGRAMAÇÃO"
+        },
+        {
+          "Nome": "TÓPICOS ESPECIAIS EM ENGENHARIA DE SOFTWARE"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "Nome": "Vladimir Costa de Alencar",
+      "Email": "valencar@servidor.uepb.edu.br",
+      "Aulas": [
+        {
+          "Nome": "TÓPICOS ESPECIAIS EM BANCOS DE DADOS"
+        }
+      ]
+    }
+  ]
+}
